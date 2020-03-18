@@ -1,4 +1,16 @@
 [{
   "pn": "257BN90",
-  "zone": "0"
-}]
+  "zone": "
+  
+  {
+  "posts": [
+    {
+      "id": 1,
+      "pn": "257BN90",
+      "zone": 0
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
