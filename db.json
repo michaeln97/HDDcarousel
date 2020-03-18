@@ -2,13 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "pn": "257BN90",
-      "zone": 0
-    }
-    {
-      "id": 2,
-      "pn": "259BN90",
-      "zone": 3
+      "zone": 0,
+      "pn": "257BN90"
     }
   ],
   "profile": {
